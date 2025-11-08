@@ -1,10 +1,10 @@
 ---
 # A simple front matter block helps Jekyll build this page.
 layout: default
-title: "Methodology 5 — Task 2"
+title: "Methodology 4 — Task 2"
 ---
 
-# DSC 180A – Methodology Assignment 5 (Task 2)
+# DSC 180A – Methodology Assignment 4 (Task 2)
 
 **Name & UCSD Email:** Hargen Zheng — yoz018@ucsd.edu
 
